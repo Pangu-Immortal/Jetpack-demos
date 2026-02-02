@@ -8,6 +8,10 @@
 
 </div>
 
+<p align="center">
+  <b>⭐ 点击 <a href="https://github.com/Pangu-Immortal/Jetpack-demos">Star</a>，关注不迷路 ⭐</b>
+</p>
+
 Jetpack库-踩坑记录
 
 ---
